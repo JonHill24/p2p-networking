@@ -1,4 +1,4 @@
-# Speed as a Feaure; Latency and Bandwidth
+# Speed as a Feature; Latency and Bandwidth
 
 **Speed is a feature**
 * Faster sites lead to better user engagement.
